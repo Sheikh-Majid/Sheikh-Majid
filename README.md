@@ -24,10 +24,10 @@
 - [🔗 BailAlTazeeb (UAE)](https://www.baitaltahzeeb.com/)
 - [🔗 StartUp (INDIA)](https://www.nextzensoftware.com/)
 
-## 📌 Pinned Projects
+## 📌 Pinned Latest Projects
 - [🔗 My Portfolio](https://majid-portfolio-five.vercel.app/)
 - [📘 Apna Tutorial Website](https://apna-tutorials.vercel.app/)
-- [📦 E-commerce Backend](https://ecommerce-backend-mxdo.onrender.com)
+
 
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sheikh-majid-tarique-11a1b2200/)
