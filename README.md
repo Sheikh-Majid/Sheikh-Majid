@@ -19,9 +19,13 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Majid&theme=radical)
 
+## 📌 Freelance Projects
+- [🔗 BailAlTazeeb (UAE)](https://www.baitaltahzeeb.com/)
+- [🔗 StartUp (INDIA)](https://www.nextzensoftware.com/)
+
 ## 📌 Pinned Projects
-- [🔗 My Portfolio](https://portfolio-dot-arclogicapp.uc.r.appspot.com)
-- [📘 Apna Tutorial Website](https://github.com/Sheikh-Majid/Apna-tutorial-Frontend)
+- [🔗 My Portfolio](https://majid-portfolio-five.vercel.app/)
+- [📘 Apna Tutorial Website](https://apna-tutorials.vercel.app/)
 - [📦 E-commerce Backend](https://ecommerce-backend-mxdo.onrender.com)
 
 ## 📬 Connect with me
