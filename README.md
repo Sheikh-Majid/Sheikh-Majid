@@ -1,11 +1,12 @@
 # Hola, 👋 I'm Sheikh Majid
 
 ## 🚀 About Me
-- 🔭 I'm currently working on Frontend + Backend (Fullstack).
+- 💼 I’m currently working as a Software Engineer at ArcloiQ.
 - 🌱 Learning MERN, WordPress and Django.
 - 🛠️ Skills: React, Node.js, Tailwind CSS, MongoDB, Next.js, WordPress, PHP, Python
+- 🧭 I love exploring and working both in frontend and backend.
 - 💬 Ask me about: Web development, Freelancing tips, GitHub setup
-- 📫 How to reach me: sheikhmajid@example.com
+- 📫 How to reach me: sheikhmajidt@mail.com
 
 ## 🧰 Languages and Tools
 <p align="left">
