@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Majid&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Majid&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sheikh-Majid&theme=radical)
 
 ## 📌 Freelance Projects
 - [🔗 BailAlTazeeb (UAE)](https://www.baitaltahzeeb.com/)
