@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💼 I’m currently working as a Software Engineer at ArclogiQ.
-- 🌱 Learning MERN, WordPress and Django.
+- 🌱 Learning MERN stack and Wordpress etc.
 - 🛠️ Skills: React, Node.js, Tailwind CSS, MongoDB, Next.js, WordPress, PHP, Python
 - 🧭 I love exploring and working both in frontend and backend.
 - 💬 Ask me about: Web development, Freelancing tips, GitHub setup
