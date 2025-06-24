@@ -14,11 +14,11 @@
 </p>
 
 ## 📈 GitHub Stats
-![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikh-majid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-majid&layout=compact&theme=radical)
+![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Majid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Majid&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheikh-majid&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sheikh-Majid&theme=radical)
 
 ## 📌 Freelance Projects
 - [🔗 BailAlTazeeb (UAE)](https://www.baitaltahzeeb.com/)
