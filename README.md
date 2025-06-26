@@ -26,7 +26,7 @@
 
 ## 📌 Pinned Latest Projects
 - [🔗 My Portfolio](https://majid-portfolio-five.vercel.app/)
-- [📘 Apna Tutorial Website](https://apna-tutorials.vercel.app/)
+- [📘 Apna Tutorial Website](https://apna-tutorial.vercel.app/)
 
 
 ## 📬 Connect with me
