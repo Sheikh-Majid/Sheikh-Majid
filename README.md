@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 💼 I’m currently working as a Software Engineer at ArclogiQ Softwares.
 - 🌱 Learning MERN stack and Wordpress etc.
-- 🛠️ Skills: React, Node.js, Tailwind CSS, MongoDB, Next.js, WordPress, PHP, Python
+- 🛠️ Skills: React, Node.js, Tailwind CSS, MongoDB, Next.js, WordPress, PHP.
 - 🧭 I love exploring and working both in frontend and backend.
 - 💬 Ask me about: Web development, Freelancing tips, GitHub setup
 - 📫 How to reach me: sheikhmajidt@mail.com
