@@ -27,7 +27,7 @@
 
 ## 📌 Pinned Latest Projects
 - [🔗 My Portfolio](https://majid-portfolio-five.vercel.app/)
-- [📘 CodeMaster website](https://code-master-frontend.vercel.app/)
+- [📘 CodeMaster website](https://www.codemster.com/)
 
 
 ## 📬 Connect with me
