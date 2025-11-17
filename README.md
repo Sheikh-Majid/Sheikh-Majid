@@ -1,59 +1,67 @@
 # Hola, 👋 I'm Sheikh Majid
 
 ## 🚀 About Me
-- 💼 I’m currently working as a Software Engineer at ArclogiQ Softwares.
-- 🌱 Learning MERN stack and Wordpress etc.
-- 🛠️ Skills: React, Node.js, Tailwind CSS, MongoDB, Next.js, WordPress, PHP.
-- 📊 Databases: MongoDB, MySQL, PostgreSQL etc.
-- 🧭 I love exploring and working both in frontend, backend and databases.
-- 💬 Ask me about: Web development, Freelancing tips, GitHub setup
-- 📫 How to reach me: sheikhmajidt@mail.com
+- 💼 Software Engineer at ArclogiQ Softwares
+- 🌱 Mastering MERN Stack & WordPress
+- 🛠️ Tech Stack: React, Node.js, MongoDB, Next.js, PHP, Tailwind
+- 📊 Databases: MongoDB, MySQL, PostgreSQL
+- 💬 Ask me about: Web Development & Freelancing
+- 📫 Reach me: sheikhmajidt@mail.com
 
 ## 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,php,wordpress,figma,mysql,postgresql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,php,wordpress,figma,mysql,postgresql,git,github,vscode" />
 </p>
 
-## 📈 GitHub Stats
+## 📈 GitHub Overview
 
 <div align="center">
 
-![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Majid&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Majid&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sheikh-Majid&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Majid&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Sheikh-Majid?style=social)
+![Stars](https://img.shields.io/github/stars/Sheikh-Majid?style=social)
 
 </div>
 
-## 📊 Activity Metrics
+## 💻 Coding Activity
+
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sheikh-Majid&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Majid&show_icons=true&theme=dark&hide_border=true)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sheikh-Majid&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com?user=Sheikh-Majid&theme=dark&hide_border=true)
 
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sheikh-Majid&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Majid&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
-## 📌 Freelance Projects
-- [🔗 BailAlTazeeb (UAE)](https://www.baitaltahzeeb.com/)
-- [🔗 StartUp (INDIA)](https://www.nextzensoftware.com/)
+## 🚀 Professional Projects
 
-## 📌 Pinned Latest Projects
-- [🔗 My Portfolio](https://majid-portfolio-five.vercel.app/)
-- [📘 CodeMaster website](https://www.codemster.com/)
+### 🌐 Freelance Work
+- [**BailAlTazeeb**](https://www.baitaltahzeeb.com/) - UAE Client
+- [**StartUp India**](https://www.nextzensoftware.com/) - Indian Startup
 
-## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sheikh-majid-tarique-11a1b2200/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sheikhmajidt@mail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://majid-portfolio-five.vercel.app/)
+### 💼 Personal Projects
+- [**My Portfolio**](https://majid-portfolio-five.vercel.app/) - Personal Website
+- [**CodeMaster**](https://www.codemster.com/) - Learning Platform
+
+## 📞 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/sheikh-majid-tarique-11a1b2200/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sheikhmajidt@mail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://majid-portfolio-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-**⚡ "Code is like humor. When you have to explain it, it's bad."**
+**✨ Building digital solutions, one commit at a time**
 
 </div>
