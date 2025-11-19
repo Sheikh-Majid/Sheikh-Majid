@@ -1,19 +1,24 @@
-# Hola, 👋 I'm Sheikh Majid
+# 👋 Hola, I'm **Sheikh Majid**
 
-## 🚀 About Me
-- 💼 Software Engineer at ArclogiQ Softwares
-- 🌱 Mastering MERN Stack & WordPress
-- 🛠️ Tech Stack: React, Node.js, MongoDB, Next.js, PHP, Tailwind
-- 📊 Databases: MongoDB, MySQL, PostgreSQL
-- 💬 Ask me about: Web Development & Freelancing
-- 📫 Reach me: sheikhmajidt@mail.com
+### 🚀 Software Engineer | MERN & WordPress Developer | Freelancer
 
-## 🧰 Languages and Tools
+💼 Software Engineer at **ArclogiQ Softwares**  
+🌱 Currently mastering **MERN Stack & WordPress**  
+🛠️ Tech Stack: **React, Node.js, MongoDB, Next.js, PHP, Tailwind**  
+📊 Databases: **MongoDB, MySQL, PostgreSQL**  
+💬 Ask me about **Web Development & Freelancing**  
+📫 Reach me at: **sheikhmajidt@mail.com**
+
+---
+
+## 🧰 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,php,wordpress,figma,mysql,postgresql,git,github,vscode" />
 </p>
 
-## 📈 GitHub Overview
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -23,27 +28,45 @@
 
 </div>
 
-## 💻 Coding Activity
+---
+
+## 💻 GitHub Stats & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Majid&show_icons=true&theme=dark&hide_border=true)
+<!-- Main GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sheikh-Majid&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
-![Streak Stats](https://streak-stats.demolab.com?user=Sheikh-Majid&theme=dark&hide_border=true)
+<!-- Contribution Streak -->
+<img src="https://streak-stats.demolab.com?user=Sheikh-Majid&theme=tokyonight&hide_border=true" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Majid&layout=compact&theme=dark&hide_border=true)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Majid&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sheikh-Majid&theme=react-dark&hide_border=true)
+
+</div>
+
+---
 
 ## 🚀 Professional Projects
 
 ### 🌐 Freelance Work
-- [**BailAlTazeeb**](https://www.baitaltahzeeb.com/) - UAE Client
-- [**StartUp India**](https://www.nextzensoftware.com/) - Indian Startup
+- **[BailAlTazeeb](https://www.baitaltahzeeb.com/)** — UAE Client  
+- **[StartUp India](https://www.nextzensoftware.com/)** — Indian Startup  
 
 ### 💼 Personal Projects
-- [**My Portfolio**](https://majid-portfolio-five.vercel.app/) - Personal Website
-- [**CodeMaster**](https://www.codemster.com/) - Learning Platform
+- **[My Portfolio](https://majid-portfolio-five.vercel.app/)** — Personal Website  
+- **[CodeMaster](https://www.codemster.com/)** — Learning Platform  
+
+---
 
 ## 📞 Let's Connect
 <p align="left">
@@ -62,6 +85,6 @@
 
 <div align="center">
 
-**✨ Building digital solutions, one commit at a time**
+### ✨ *Building digital solutions, one commit at a time.*
 
 </div>
