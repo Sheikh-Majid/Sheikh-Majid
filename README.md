@@ -34,23 +34,23 @@
 
 <div align="center">
 
-<!-- Main GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sheikh-majid&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<!-- Fixed GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sheikh-majid&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
 
-<!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com/?user=sheikh-majid&theme=tokyonight&hide_border=true" height="180" />
+<!-- Fixed Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-majid&theme=radical&hide_border=true" height="165" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-majid&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<!-- Fixed Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-majid&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikh-majid&theme=react-dark&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sheikh-majid&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📞 Let's Connect
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sheikh-majid-tarique-11a1b2200/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -79,6 +79,9 @@
   <a href="https://majid-portfolio-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://github.com/sheikh-majid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -86,5 +89,7 @@
 <div align="center">
 
 ### ✨ *Building digital solutions, one commit at a time.*
+  
+**📊 Stats Last Updated: On Demand**
 
 </div>
