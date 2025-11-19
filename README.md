@@ -34,23 +34,25 @@
 
 <div align="center">
 
-<!-- Fixed GitHub Stats -->
+<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=sheikh-majid&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
 
-<!-- Fixed Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-majid&theme=radical&hide_border=true" height="165" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=sheikh-majid&theme=radical&hide_border=true" height="165" />
 
-<!-- Fixed Top Languages -->
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-majid&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
+
 <div align="center">
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sheikh-majid&theme=react-dark&hide_border=true&area=true)
+<!-- WORKING Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikh-majid&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" />
 
 </div>
 
@@ -89,7 +91,5 @@
 <div align="center">
 
 ### ✨ *Building digital solutions, one commit at a time.*
-  
-**📊 Stats Last Updated: On Demand**
 
 </div>
