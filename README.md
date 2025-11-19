@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Majid&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/Sheikh-Majid?style=social)
-![Stars](https://img.shields.io/github/stars/Sheikh-Majid?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=sheikh-majid&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/sheikh-majid?style=social)
+![Stars](https://img.shields.io/github/stars/sheikh-majid?style=social)
 
 </div>
 
@@ -35,13 +35,13 @@
 <div align="center">
 
 <!-- Main GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sheikh-Majid&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=sheikh-majid&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
 <!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com?user=Sheikh-Majid&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://streak-stats.demolab.com?user=sheikh-majid&theme=tokyonight&hide_border=true" height="180" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Majid&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-majid&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
@@ -50,7 +50,7 @@
 ## 📈 Contribution Graph
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sheikh-Majid&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikh-majid&theme=react-dark&hide_border=true)
 
 </div>
 
