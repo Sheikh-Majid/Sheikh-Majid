@@ -1,6 +1,6 @@
 # 👋 Hola, I'm **Sheikh Majid**
 
-### 🚀 Software Engineer | MERN & WordPress Developer | Freelancer
+### 🚀 Software Engineer || Freelancer
 
 💼 Software Engineer at **ArclogiQ Softwares**  
 🌱 Currently mastering **MERN Stack & WordPress**  
