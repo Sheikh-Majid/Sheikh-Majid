@@ -3,10 +3,10 @@
 ### 🚀 Software Engineer || Freelancer
 
 💼 Software Engineer at **ArclogiQ Softwares**  
-🌱 Currently mastering **MERN Stack & WordPress**  
+🌱 Currently mastering **Software Development**  
 🛠️ Tech Stack: **React, Node.js, MongoDB, Next.js, PHP, Tailwind**  
 📊 Databases: **MongoDB, MySQL, PostgreSQL**  
-💬 Ask me about **Web Development & Freelancing**  
+💬 Ask me about **Software Development & Freelancing**  
 📫 Reach me at: **sheikhmajidt@mail.com**
 
 ---
